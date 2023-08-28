@@ -1,2 +1,2 @@
 # Operating_System
-Self-Studying-OS-for-uni
+Self-Studying-OS-for-Uni
